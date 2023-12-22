@@ -143,7 +143,7 @@ plaintextCopy code[4.0K]  .
 ## 3.2. R Data Files Generated in This Study
 
 - **Description**: All R data files (.rds) related to single-cell RNA sequencing (scRNA-seq), single-cell T-cell receptor sequencing (scTCR-seq), single-cell spatial transcriptomics (scSpatial), and The Cancer Genome Atlas Adrenocortical Carcinoma (TCGA-ACC) data are available. These files encompass a comprehensive range of analyses and findings from our study.
-- **Download**: You can download these files from [Zenodo Zenodo10416598](https://zenodo.org/uploads/10416598).
+- **Download**: You can download these files from [Zenodo Zenodo10416598](https://zenodo.org/records/10416598).
 
 Here's an annotation for each file to give you :
 
@@ -261,4 +261,4 @@ Our paper has been published in [*XXX Journal*](https://chat.openai.com/c/xxxx).
 The raw data supporting the findings of this study can be downloaded from the following repositories:
 
 - **GEO Database**: Access our dataset by visiting [GSEXXX](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSEXXX). This link will take you directly to the dataset's page.
-- **Zenodo**: Additional data files are available on Zenodo. Download them at [Zenodo10416598](https://zenodo.org/record/10416598).
+- **Zenodo**: Additional data files are available on Zenodo. Download them at [Zenodo10416598](https://zenodo.org/records/10416598).
